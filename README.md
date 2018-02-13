@@ -1,15 +1,28 @@
+### Mariokart GP VR
 
+## Overview
 
-### Overview
+  Mariokart GP VR is a virtual reality experience where the player is put onto a mechanical kart with a HTC Vive Headset. The idea is to allow for full immersion by simulating the movement of the kart while displaying the Mariokart game on the headset. There are also added interaction within the VR enviroment with the addition of HTC hand controllers.
 
-Mariokart GP VR is a virtual reality experience where the player is put onto a mechanical kart with a HTC Vive Headset. The idea is to allow for full immersion by simulating the movement of the kart while displaying the Mariokart game on the headset. There are also added
+  Vr roller coaster are a relatively new attraction with the first one opening in 2015. This is mainly due to not only space requirements but also network and hardware requirements. Other iterations of this concept can be identified as flight similators or even immobile coaster simulators. This technology is also present on rail car systems used to augmented tours or rides.
 
-### Jekyll Themes
+  Current the only place where you can experience this ride is in Koyto, Tokyo. Within the country is a VR arcade called VR ZONE: Shinjuku. It is the first ever only VR arcade and houses 13+ different experiences. This establishment has combined many different aspects simulated expiernces by creating specialized gear and hardware. This allows for the ability to create incredibly immersively enviroments in a very small area. Currently these enviroments require very speaicalized equipment so it offers very little expansion or alternitive use.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Thomas245166/StudentChoice/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## How it Works
+  The 
+The basics: How does it work?
+Why is it a good use of VR? Why is it unique? What’s cool about it?
 
-### Support or Contact
+## Strenght vs Weakness
+Critique on strengths and weaknesses/issues such as tesign flaws or technical flaws. Is there still more to do?
+Can this lead to varying degrees of simulator sickness including nausea, fatigue, headache, eyestrain, vertigo, and dizziness? What is your rating on the scale from 0 to 10?
+0: Normal (no motion sickness at all)
+5: Average (lead to dizziness) -> can not use it for more than a few minutes
+10: Max (can be dangerous)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.-->
+## Simular Applications
+What are the similar/related applications?
+Are there any other potential applications of the technique/device?
+Conclusion
 
 <iframe src="//slides.com/thomas245166/student-choice-presentation/embed" width="1200" height="600" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
