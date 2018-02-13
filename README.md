@@ -23,6 +23,16 @@ Can this lead to varying degrees of simulator sickness including nausea, fatigue
 ## Simular Applications
 What are the similar/related applications?
 Are there any other potential applications of the technique/device?
-Conclusion
 
+## Conclusion
+
+
+### Slide presentation
 <iframe src="//slides.com/thomas245166/student-choice-presentation/embed" width="1200" height="600" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+### Mariokart GP VR Demo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NQHUomtWDxI?start=76" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### VR ZONE: Shinjuku Commerical
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PRv9GaEyFIc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
